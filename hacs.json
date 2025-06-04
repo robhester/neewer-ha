@@ -1,0 +1,7 @@
+{
+  "name": "Neewer GL25C Light",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2023.1.0",
+  "country": ["US", "CA", "GB", "AU", "NZ", "DE", "FR", "IT", "ES", "NL", "BE", "CH", "AT", "PL", "CZ", "SK", "HU", "RO", "BG", "GR", "PT", "IE", "DK", "SE", "NO", "FI"]
+}
